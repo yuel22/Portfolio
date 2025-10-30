@@ -877,7 +877,7 @@ section,
   padding: 0;
   font-size: 14px;
   font-weight: 400;
-  margin: 0 15px;
+  margin: 0 20px;
   line-height: 1;
   text-transform: uppercase;
   margin-bottom: 10px;
@@ -899,8 +899,8 @@ section,
 
 @media (max-width: 575px) {
   .portfolio .portfolio-filters li {
-    font-size: 12px;
-    margin: 0 8px;
+    font-size: 14px;
+    margin: 0 15px;
   }
 }
 
