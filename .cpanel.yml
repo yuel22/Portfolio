@@ -1,0 +1,8 @@
+---
+deployment:
+  - src: index.html
+    dest: public_html/index.html
+  - src: assets/
+    dest: public_html/assets/
+  - src: forms/
+    dest: public_html/forms/
