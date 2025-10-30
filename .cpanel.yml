@@ -1,0 +1,12 @@
+# CPanel deployment configuration
+# This file is required for deployment on CPanel hosting
+
+# Deployment settings
+deployment:
+  # Specify the document root for your application
+  document_root: /
+
+  # Specify the PHP version if applicable (uncomment if needed)
+  # php_version: 8.1
+
+  # Additional deployment options can be added here as needed
